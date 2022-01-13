@@ -5,8 +5,8 @@ enum Option<T> {
 }
 fn plus_one(x: Option<i32>) -> Option<i32> {
     match x {
-    	Option::None => Option::None,
         Option::Some(i) => Option::Some(i + 1),
+		_ => x,
 	}
 }
 fn main() {
