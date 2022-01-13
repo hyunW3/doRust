@@ -47,10 +47,10 @@ fn main() {
 	
 	println!("home : {:?}, loopback : {:?}",home,loopback);
 	// 6.1 Option practice
-	let some_number = Some(5);
-	let some_string = Some("a string");
+	let some_number = Option::Some(5);
+	let some_string = Option::Some("a string");
 	
-	let absent_number : Option<i32> = None;
+	let absent_number : Option<i32> = Option::None;
 	
 	// 6.2 match Control Flow
 	let quarter_alaska = Coin::Quarter(UsState::Alaska);
