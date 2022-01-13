@@ -8,5 +8,5 @@ start at 211204
 220109 : 5.2. An Example Program Using Structs, 5.3. Method Syntax    
 220110 : 6.1. Defining an Enum Option 전까지   
 220111 : 6.1. Defining an Enum Option
-220112 : 6.2 The match Control Flow Operator : Patterns that B
-ind to Values
+220112 : 6.2 The match Control Flow Operator : Patterns that Bind to Values
+220113 : 6.2 The match Control Flow Operator : Catch-all Patterns and the _ Placeholder
