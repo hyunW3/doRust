@@ -37,6 +37,7 @@ fn value_in_Cents(coin: Coin) -> u8 {
 		},
 	}
 }
+
 fn main() {
 	let home = IpAddr::V4( Ipv4Addr {
 		ip :(127, 0, 0, 1),
