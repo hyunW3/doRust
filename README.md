@@ -10,3 +10,4 @@ start at 211204
 220111 : 6.1. Defining an Enum Option
 220112 : 6.2 The match Control Flow Operator : Patterns that Bind to Values
 220113 : 6.2 The match Control Flow Operator : Catch-all Patterns and the _ Placeholder
+220115 : 6.4 Concise Control flow with if let
